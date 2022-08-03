@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#Author: atrandys
+#original author: atrandys
 #
 #
 function blue(){
